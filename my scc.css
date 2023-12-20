@@ -1,0 +1,33 @@
+/* #ff3368; #ecfdff; */
+
+h1 {
+    color:#2de115 ;
+    font-size: 500%;
+    direction: center;
+}
+.para{
+    color: rgb(98, 89, 133);
+}
+#btn{
+    background-color: #ff0839;
+    color: aliceblue;
+    
+}
+#btn:hover{
+    background-color: blue;
+    color: rgb(211, 184, 8);
+
+}
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: #ccc;
+    background-image: url(v2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+p{
+    font-size: 100%;
+    
+}
